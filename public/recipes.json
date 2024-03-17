@@ -1,0 +1,57 @@
+[
+    {
+      "recipe_id": 1,
+      "recipe_image": "https://i.ibb.co/M2BNKr1/chicken-teriyaki.jpg",
+      "recipe_name": "Chicken Teriyaki",
+      "short_description": "A classic Japanese dish with tender chicken glazed in a savory teriyaki sauce.",
+      "ingredients": ["550 g chicken", "120 ml soy sauce", "200 g basil leaves", "400 g mushroom", "1 tbsp sesame oil", "2 cloves garlic"],
+      "preparing_time": "30 min",
+      "calories": "320 calories"
+    },
+    {
+      "recipe_id": 2,
+      "recipe_image": "https://i.ibb.co/Vv9c2zP/spaghetti-carbonara.jpg",
+      "recipe_name": "Spaghetti Carbonara",
+      "short_description": "An Italian favorite featuring creamy egg sauce and Parmesan cheese.",
+      "ingredients": ["400 g spaghetti", "150 g pancetta", "3 eggs", "100 g grated Parmesan cheese", "2 cloves garlic", "1/2 cup heavy cream"],
+      "preparing_time": "25 min",
+      "calories": "450 calories"
+    },
+    {
+      "recipe_id": 3,
+      "recipe_image": "https://i.ibb.co/XD6Q5S5/vegetable-curry.jpg",
+      "recipe_name": "Vegetable Curry",
+      "short_description": "A fragrant and flavorful vegetarian curry loaded with assorted vegetables.",
+      "ingredients": ["300 g mixed vegetables", "200 ml coconut milk", "2 tbsp curry powder", "1 onion", "1 tbsp ginger paste", "1/2 cup peas"],
+      "preparing_time": "40 min",
+      "calories": "280 calories"
+    },
+    {
+      "recipe_id": 4,
+      "recipe_image": "https://i.ibb.co/TM8GGqg/caesar-salad.jpg",
+      "recipe_name": "Caesar Salad",
+      "short_description": "A crisp and refreshing salad with romaine lettuce and Caesar dressing.",
+      "ingredients": ["1 head romaine lettuce", "100 g croutons", "50 g grated Parmesan cheese", "100 ml Caesar dressing", "1 lemon", "1/4 cup olive oil"],
+      "preparing_time": "15 min",
+      "calories": "220 calories"
+    },
+    {
+      "recipe_id": 5,
+      "recipe_image": "https://i.ibb.co/d2NNbzH/grilled-salmon.jpg",
+      "recipe_name": "Grilled Salmon",
+      "short_description": "Delicious grilled salmon fillets seasoned with herbs and lemon.",
+      "ingredients": ["4 salmon fillets", "2 tbsp olive oil", "1 lemon", "2 tsp dried dill", "1/2 tsp salt", "1/4 tsp black pepper"],
+      "preparing_time": "20 min",
+      "calories": "350 calories"
+    },
+    {
+      "recipe_id": 6,
+      "recipe_image": "https://i.ibb.co/0nfybG1/apple-pie.jpg",
+      "recipe_name": "Apple Pie",
+      "short_description": "A classic American dessert featuring tender apples and a flaky crust.",
+      "ingredients": ["6 apples", "150 g sugar", "2 tsp cinnamon", "250 g pie crust dough", "1/4 cup flour", "1/4 cup butter"],
+      "preparing_time": "50 min",
+      "calories": "280 calories"
+    }
+  ]
+  
